@@ -13,7 +13,7 @@ Kata.getMiddle("middle") should return "dd"
 
 Kata.getMiddle("A") should return "A"
 */
-public class Codewars {
+public class MiddleOfString {
   class Kata {
     public static String getMiddle(String word) {
       int length = word.length();
