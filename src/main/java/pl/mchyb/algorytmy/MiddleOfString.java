@@ -14,9 +14,8 @@ Kata.getMiddle("middle") should return "dd"
 Kata.getMiddle("A") should return "A"
 */
 public class MiddleOfString {
-  class Kata {
     public static String getMiddle(String word) {
-      int length = word.length();
-          return (length % 2 != 0) ?  String.valueOf(word.charAt(length / 2)) : word.substring(length / 2 - 1, length / 2 + 1);
-  }
+        int length = word.length();
+        return (length % 2 != 0) ? String.valueOf(word.charAt(length / 2)) : word.substring(length / 2 - 1, length / 2 + 1);
+    }
 }
