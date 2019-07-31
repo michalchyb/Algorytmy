@@ -9,3 +9,5 @@ j
 :src/main/java/pl/mchyb/algorytmy/AlgorytmyApplication.java,6/a/6a215a98caa1941bdaacbae2afafb7c578429777
 b
 2src/main/java/pl/mchyb/algorytmy/ArrayToBinar.java,2/d/2d8f24ed811c3e9a6f663fd1adff2eb02d5aa57f
+`
+0src/main/java/pl/mchyb/algorytmy/HighAndLow.java,f/3/f3e405445bb50e0880d1f643157636c21cfdbe06
