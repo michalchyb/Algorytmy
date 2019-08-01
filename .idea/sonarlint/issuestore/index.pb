@@ -11,3 +11,7 @@ b
 2src/main/java/pl/mchyb/algorytmy/ArrayToBinar.java,2/d/2d8f24ed811c3e9a6f663fd1adff2eb02d5aa57f
 `
 0src/main/java/pl/mchyb/algorytmy/HighAndLow.java,f/3/f3e405445bb50e0880d1f643157636c21cfdbe06
+d
+4src/main/java/pl/mchyb/algorytmy/DigitalRootSum.java,7/b/7b320bc91446a651f383df982531ca0d3c446f12
+]
+-src/main/java/pl/mchyb/algorytmy/Dubstep.java,5/6/56ca69a4f14803f4b9a3dbf9d7086a82cfba17ef

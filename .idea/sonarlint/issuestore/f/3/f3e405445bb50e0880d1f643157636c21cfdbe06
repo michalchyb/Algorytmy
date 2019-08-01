@@ -1,9 +1,9 @@
 
 rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÈÆÓşÿÿÿÿ8º„›Ä-
-]squid:S1118":Add a private constructor to hide the implicit public one.(‘®Éãıÿÿÿÿ8º„›Ä-
 Osquid:S1612	",Replace this lambda with a method reference.(Ğ‹è¥ıÿÿÿÿ8ê¿Ò›Ä-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å¶áç8¿Öè›Ä-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8ÅÁä›Ä-
 Osquid:S1612",Replace this lambda with a method reference.(Ğ‹è¥ıÿÿÿÿ8Ÿ±Ô›Ä-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å¶áç8¿Öè›Ä-
+]squid:S1118":Add a private constructor to hide the implicit public one.(‘®Éãıÿÿÿÿ8º„›Ä-
