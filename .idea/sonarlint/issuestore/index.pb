@@ -15,3 +15,11 @@ d
 4src/main/java/pl/mchyb/algorytmy/DigitalRootSum.java,7/b/7b320bc91446a651f383df982531ca0d3c446f12
 ]
 -src/main/java/pl/mchyb/algorytmy/Dubstep.java,5/6/56ca69a4f14803f4b9a3dbf9d7086a82cfba17ef
+d
+4src/main/java/pl/mchyb/algorytmy/PangramChecker.java,e/8/e81e68687f2f84c2864cca64360141cf47a6c32f
+Z
+*src/main/java/pl/mchyb/algorytmy/Kata.java,4/4/44129e03b1044b20f2c6855d7b42d407fba0f40e
+^
+.src/main/java/pl/mchyb/algorytmy/Deadfish.java,a/1/a15d06c394ba47567aaf55144a032a670d995eea
+a
+1src/main/java/pl/mchyb/algorytmy/Int32ToIPv4.java,4/9/492b7d2c8e57e2353e3c8d63c0088eced03b15ca
